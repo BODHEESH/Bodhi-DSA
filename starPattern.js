@@ -1,6 +1,6 @@
 /**
  * Star Patterns
- * NamasteDSA Course
+ * Bodhi-DSA Course
  * 
  * Problem: Draw various star patterns using nested loops
  * Practice nested loops and pattern recognition

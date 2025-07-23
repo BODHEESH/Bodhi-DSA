@@ -1,6 +1,6 @@
 /**
  * Remove Duplicates from Sorted Array
- * NamasteDSA Course
+ * Bodhi-DSA Course
  * 
  * Problem: Remove duplicates from a sorted array in-place
  * Return the length of the array after removing duplicates

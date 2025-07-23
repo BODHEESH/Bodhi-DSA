@@ -1,6 +1,6 @@
 /**
  * Count Digits in a Number
- * NamasteDSA Course
+ * Bodhi-DSA Course
  * 
  * Problem: Count the number of digits in an integer
  */

@@ -1,6 +1,6 @@
 /**
  * Check Palindrome
- * NamasteDSA Course
+ * Bodhi-DSA Course
  * 
  * Problem: Check if a string or number is a palindrome
  * A palindrome reads the same forwards and backwards

@@ -1,6 +1,6 @@
 /**
  * Second Largest Element in Array
- * Malayalam DSA Course - NamasteDSA
+ * Malayalam DSA Course - Bodhi-DSA
  * 
  * Problem: Find the second largest element in an array
  * ഒരു array-ൽ രണ്ടാമത്തെ വലിയ element കണ്ടെത്തുക

@@ -1,6 +1,6 @@
 /**
  * Reverse Integer
- * NamasteDSA Course
+ * Bodhi-DSA Course
  * 
  * Problem: Reverse the digits of an integer
  * Handle overflow cases and negative numbers
